@@ -8,11 +8,15 @@ arch:
   - aarch64
   - armhf
 startup: application
+privileged:
+  - SYS_RAWIO
+  - SYS_ADMIN
 gpio: true
 devices:
   - /dev/i2c-1
   - /dev/spidev0.0
   - /dev/mem
+  - /dev/vcio
 hassio_api: true
 hassio_role: "manager"
 options:
