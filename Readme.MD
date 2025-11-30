@@ -81,7 +81,7 @@ Shutdown/turn-off your Home Assistant installation and unplug the SD card. Plug 
 
 ##### Click the button below to install the addon
 
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?addon=6fa7f6d2_pironman&repository_url=https%3A%2F%2Fgithub.com%2Fsunfounder%2Fhome-assistant-addon)
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?addon=6fa7f6d2_pironman&repository_url=https%3A%2F%2Fgithub.com%2FPCov3r%2Fhome-assistant-addon)
 
 ##### Or install it manually:
 
@@ -227,3 +227,4 @@ docker buildx build --platform linux/arm64/v8 --build-arg BUILD_FROM=ghcr.io/has
 > docker login
 > ```
 > 登录成功后，再执行上面的命令。
+
