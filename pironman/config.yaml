@@ -1,8 +1,8 @@
 name: "Pironman"
 description: "Pironman support"
-version: "1.0.13"
+version: "1.0.12"
 slug: "pironman"
-image: "pcov3r/{arch}-addon-pironman"
+image: "null"
 init: false
 arch:
   - aarch64
