@@ -2,7 +2,7 @@ name: "Pironman"
 description: "Pironman support"
 version: "1.0.12"
 slug: "pironman"
-image: "null"
+#image: "null"
 init: false
 arch:
   - aarch64
