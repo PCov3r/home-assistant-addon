@@ -36,4 +36,4 @@ schema:
   rgb_color: str
   rgb_speed: int # (0, 100)
   rgb_freq: int # (400, 1600)
-  rgb_pin: "list(10|12|21)"
+  rgb_pin: "list(10|12|18|21)"
